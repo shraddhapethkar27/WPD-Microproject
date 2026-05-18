@@ -1,6 +1,5 @@
-# WPD-Microproject
+# 🌐 WPD Microproject
 Created a webpage on Sanjay Ghodawat University
-🌐 WPD Microproject
 
 This is a simple web-based microproject made for Web Page Designing (WPD) subject.
 
