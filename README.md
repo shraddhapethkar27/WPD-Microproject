@@ -7,6 +7,9 @@ This is a simple web-based microproject made for Web Page Designing (WPD) subjec
 👉 
 https://shraddhapethkar27.github.io/WPD-Microproject/
 
+⚠️ Note: 
+This website is currently not responsive and is intended to be viewed on laptops and desktop computers only.
+
 👩‍💻 
 Shraddha Pethkar
 
